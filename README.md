@@ -15,19 +15,19 @@ El algoritmo debe sacar el mayor de los números, es decir, el valor 99, y el me
 If you just want to run, you can use a command which is:
 
 ```
-go run impresionTablas.go
+go run mayorMenor.go
 ```
 
 Then build it with the go tool:
 
 ```
-go build impresionTablas.go
+go build mayorMenor.go
 ```
 
 The command above will build an executable named main in the current directory alongside your source code. Execute it to see extraction of data:
 
 ```
-./impresionTablas.go
+./mayorMenor.go
 ```
 
 __NOTE:__ Just is executable for UNIX system. For execute into Windows system click on the main.exe
